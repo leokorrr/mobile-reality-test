@@ -1,0 +1,8 @@
+.tiles {
+    display: flex;
+    flex-wrap: wrap;
+
+    @media (max-width: 80rem) {
+        margin-bottom: 2rem;
+    }
+}

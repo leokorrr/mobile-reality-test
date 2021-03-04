@@ -1,0 +1,13 @@
+.btn {
+    background-color: transparent;
+    font-size: 1.4rem;
+    border: 0.1rem solid $color-blue;
+    padding: 0.8rem 1.6rem;
+    font-weight: bold;
+    color: $color-blue;
+    margin-top: 3rem;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
